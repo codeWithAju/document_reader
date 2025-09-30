@@ -1,0 +1,10 @@
+README.md
+setup.py
+document_reader.egg-info/PKG-INFO
+document_reader.egg-info/SOURCES.txt
+document_reader.egg-info/dependency_links.txt
+document_reader.egg-info/requires.txt
+document_reader.egg-info/top_level.txt
+logger/__init__.py
+notebook/__init__.py
+src/__init__.py

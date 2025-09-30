@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: document_reader
+Version: 0.1
+Author: Arjun V
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: requires-dist
