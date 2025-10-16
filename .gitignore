@@ -3,3 +3,4 @@
 document_reader.egg-info
 logs/
 logs
+__pycache__
