@@ -1,2 +1,5 @@
 .venv
 .env
+document_reader.egg-info
+logs/
+logs
